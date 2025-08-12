@@ -118,3 +118,15 @@ app/
 - GitHub Actions for automated testing
 - Firebase App Distribution for beta testing
 - Google Play Console integration for releases
+
+## 🛠️ Recent Updates
+
+- Completed implementation of repository pattern for Auth, Cart, and Restaurant modules
+- Added ViewModel classes for UI state management
+- Implemented Fragments for navigation and UI flow
+- Added missing Review data model in domain layer
+- Completed use case implementations for core features
+- Set up Hilt modules for dependency injection
+- Integrated Retrofit services for network communication
+- Configured Room database entities and DAOs
+- Enhanced error handling across the app
